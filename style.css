@@ -1,0 +1,271 @@
+body {
+    background-color: rgb(237 223 197);
+}
+.container {
+    background-color: rgb(247 203 98);
+    color: rgb(90 52 12);
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    height: 102px;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#img1 {
+    width: 100px;
+    float: left;
+    text-align: left;
+    border-radius: 100px;
+}
+#img2 {
+    width: 100px;
+    float: right;
+    text-align: right;
+    border-radius: 100px;
+}
+.container1 {
+    display: inline-block;
+    padding-top: 30px;
+    text-align: left;
+}
+#items {
+    display: inline;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: rgb(247 203 98);
+    text-align: left;
+    margin-left: 20px;
+}
+#smallbox {
+    display: inline;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: rgb(247 203 98);
+    text-align: left;
+    margin-left: 260px;
+}
+#bigbox {
+    display: inline;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: rgb(247 203 98);
+    text-align: left;
+    margin-left: 100px;
+}
+ul {
+    font-weight: bold;
+}
+#smallboxpice1 {
+    padding-left: 400px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice2 {
+    padding-left: 420px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice3 {
+    padding-left: 349.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice4 {
+    padding-left: 407px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice5a {
+    padding-left: 431px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice5 {
+    padding-left: 377.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice6 {
+    padding-left: 428px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice7 {
+    padding-left: 403.8px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice8 {
+    padding-left: 393.5px;
+    font-weight: lighte;
+    background-color: transparent;
+}
+#smallboxpice9 {
+    padding-left: 417.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice10 {
+    padding-left: 383px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice11 {
+    padding-left: 389px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice12 {
+    padding-left: 352px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice13 {
+    padding-left: 432.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice14 {
+    padding-left: 386px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice15 {
+    padding-left: 420.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice16 {
+    padding-left: 420.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice17 {
+    padding-left: 416px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice18 {
+    padding-left: 408px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice19 {
+    padding-left: 307px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice20 {
+    padding-left: 446px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice21 {
+    padding-left: 345px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice22 {
+    padding-left: 362px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice23 {
+    padding-left: 261px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice24 {
+    padding-left: 431.5px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice25 {
+    padding-left: 415px;
+    font-weight: bold;
+    background-color: transparent;
+}
+#smallboxpice26 {
+    padding-left: 413px;
+    font-weight: bold;
+    background-color: transparent;
+}
+u {
+    font-size: xx-large;
+    text-decoration: underline;
+    text-transform: uppercase;
+    background-color: rgb(247 203 98);
+    text-align: left;
+}
+#bigboxprice {
+    padding-left: 200px;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+#bigboxprice1 {
+    padding-left: 192px;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+#bigboxprice2 {
+    padding-left: 192px;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+#bigboxprice3 {
+    padding-left: 192px;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+#bigboxprice4 {
+    padding-left: 192px;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+}
+hr {
+    border: 5px solid black;
+}
+#order {
+    display: inline;
+    margin-right: 200px;
+}
+#delivery {
+    display: inline;
+    margin-left: 200px;
+}
+.container2 {
+        background-color: rgb(247 203 98);
+}
+#facebook {
+    width: 10px;
+    margin-bottom: 0px;
+}
+#ffp {
+    text-decoration: none;
+    color: black;
+}
+#instagram {
+    width: 20px;
+    margin-left: 100px;
+}
+#ifp {
+    text-decoration: none;
+    color: black;
+}
+#whatsapp {
+    width: 10px;
+    margin-left: 100px;
+}
+#wfp {
+    text-decoration: none;
+    color: black;
+}
